@@ -4,7 +4,7 @@ import router from './router/index'
 import store from './store'
 import VueLazyLoad from 'vue-lazyload'
 
-import toast from 'components/common/toast'
+import toast from 'components/common/toast';
 
 Vue.config.productionTip = false
 
